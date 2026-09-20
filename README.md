@@ -105,7 +105,7 @@ streamlit run Home.py
 ```
 
 ### Contributors
-- Tuong Nguyen Pham - [@Curry091104](https://github.com/Curry091104)
+- Tuong Nguyen Pham - [@tnp0911](https://github.com/tnp0911)
 - Ngoc Quynh Nhu Nguyen - [@NhuNhuNguyen](https://github.com/NhuNhuNguyen)
 - Kwok Wing Tang - [@Patrickccca](https://github.com/Patrickccca)
 - Joan Suaverdez - [@jsuaverd](https://github.com/jsuaverd)
