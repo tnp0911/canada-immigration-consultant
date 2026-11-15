@@ -12,7 +12,7 @@
 
 ***NOTICE:***
 
-This repository is an enhanced version of my original capstone project, which was initially built by a team of 6. I independently developed and improved the project after its completion. You can find the original project here: [Immigration Consultant Capstone](https://github.com/tnp0911/immigration-consultant-capstone).
+This repository is an enhanced version of my original capstone project, which was initially built by a team of six. I independently improved the project after the capstone was completed. You can find the original project and its contributing team members here: [Immigration Consultant Capstone](https://github.com/tnp0911/immigration-consultant-capstone).
 
 Additionally, for current deployment constraints and model availability, see [Deployment Limitations](#deployment-limitations).
 ### Project Description
