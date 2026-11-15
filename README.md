@@ -10,7 +10,8 @@
     - [Contributors](#contributors)
     - [License](#license)
 
-
+***NOTICE:***
+This repository is an enhanced version of my original capstone project, independently developed and improved after its completion. You can find the original project here: [Immigration Consultant Capstone](https://github.com/tnp0911/immigration-consultant-capstone).
 ### Project Description
 
 <p align="center">
