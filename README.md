@@ -11,7 +11,10 @@
     - [License](#license)
 
 ***NOTICE:***
-This repository is an enhanced version of my original capstone project, independently developed and improved after its completion. You can find the original project here: [Immigration Consultant Capstone](https://github.com/tnp0911/immigration-consultant-capstone).
+
+This repository is an enhanced version of my original capstone project, which was initially built by a team of 6. I independently developed and improved the project after its completion. You can find the original project here: [Immigration Consultant Capstone](https://github.com/tnp0911/immigration-consultant-capstone).
+
+Additionally, for current deployment constraints and model availability, see [Deployment Limitations](#deployment-limitations).
 ### Project Description
 
 <p align="center">
@@ -42,8 +45,9 @@ Live Demo: https://iris-canada.streamlit.app/
 <img width="1919" height="1016" alt="Screenshot 2026-05-01 170403" src="https://github.com/user-attachments/assets/0dac7d7a-46e2-4369-9bec-5d213a04bb2e" />
 
 
-**Note:** 
-- ⚠️ Designed for demonstration purposes; usage may be rate-limited, and model availability and response consistency may vary depending on external inference providers
+<a id="deployment-limitations"></a>
+#### ⚠️⚠️⚠️ Deployment Limitations
+- ‼️ Designed for demonstration purposes; usage may be rate-limited, and model availability and response consistency may vary depending on external inference providers
 - ☁️ Hosted on a free-tier cloud service with limited CPU and RAM ➡️ If the system falls back to the local model, responses may be unavailable
 - ⏳ May experience cold starts after periods of inactivity 
 
